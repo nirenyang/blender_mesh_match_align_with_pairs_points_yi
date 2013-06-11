@@ -2,10 +2,8 @@ Author ：yidanyang@gmail.com
 Special Thanks : CoDEmanX
 
 
-
-blender_mesh_match_align_with_pairs_points_yi
-=============================================
-Mesh match align with pairs points in Blender
+Parts aligning / Points pairs match(align)
+点对匹配器 | 组件组装工具
 
 
 
