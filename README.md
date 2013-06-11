@@ -10,7 +10,7 @@ Mesh match align with pairs points in Blender
 
 
 blenderartists:
-http://www.blenderartists.org/forum/showthread.php?294029-bpy-ops-transform-rotate-cause-Crash-in-my-script-Did-I-miss-something
+http://www.blenderartists.org/forum/showthread.php?296227-Parts-aligning-Points-pairs-match%28align%29
 
 blenderCN:
 http://bbs.blendercn.org/forum.php?mod=viewthread&tid=657
