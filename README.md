@@ -1,5 +1,6 @@
 Author ：yidanyang@gmail.com
-Special Thanks : CoDEmanX Muffy Atom Sergey Sharybin and many many more good guys.
+Special Thanks : 
+CoDEmanX, Muffy, Atom, Sergey Sharybin  and many many more good guys.
 
 
 Parts aligning / Points pairs match(align)
