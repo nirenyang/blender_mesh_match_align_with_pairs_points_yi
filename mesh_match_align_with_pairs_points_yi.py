@@ -217,7 +217,6 @@ class PointsPairsAlignMatch( bpy.types.Operator ):
                 angle += pi
             angle *= -1
             
-        ##Bad news ... Crash in Blender2.65+, Working in 2.64
         bpy.ops.transform.rotate(value=angle, axis=cross)
         return
     
@@ -241,7 +240,6 @@ class PointsPairsAlignMatch( bpy.types.Operator ):
             
         cross = dVct.cross(sVct)
         
-        ##Bad news ... Crash in Blender2.65+, Working in 2.64
         bpy.ops.transform.rotate(value=angle, axis=cross)
         return
     
@@ -289,7 +287,6 @@ class PointsPairsAlignMatch( bpy.types.Operator ):
             angle += pi
         angle *= -1
             
-        ##Bad news ... Crash in Blender2.65+, Working in 2.64
         bpy.ops.transform.rotate(value=angle, axis=cross)
         return
         
